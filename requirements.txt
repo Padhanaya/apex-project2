@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipykernel
+openpyxl
+scikit-learn
+torch
+torchvision
+torchaudio
