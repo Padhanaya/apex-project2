@@ -7,5 +7,6 @@ torch
 torchvision
 torchaudio
 ipykernel
+huggingface_hub
 jupyter
 notebook
